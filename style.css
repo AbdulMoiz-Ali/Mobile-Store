@@ -8,13 +8,15 @@
   padding: 5px;
   margin: 3px;
   flex-direction: column;
-  background-color: blue;
   color: black;
-  border: 2px solid red;
+  border: 5px solid red;
   border-radius: 15px;
-  box-shadow: 0px 0px 40px 5px blue;
+  /* box-shadow: 0px 0px 40px 5px blue; */
   margin-bottom: 10px;
   margin-top: 10px;
+  /* background-color: transparent; */
+  /* backdrop-filter: blur(10px); */
+  background-color: white;
 }
 img {
   width: 200px;
@@ -26,7 +28,7 @@ img {
   margin: 0%;
   padding: 7px;
   color: black;
-  background-color: cyan;
+  /* background-color: cyan; */
 }
 .hr {
   color: white;
@@ -52,6 +54,9 @@ img {
   align-items: center;
   flex-wrap: wrap;
   margin: 0px;
+  border: 2px solid red;
+  border-radius: 20px;
+  margin-bottom: 10px;
 }
 .icon{
   height: 50px;
@@ -66,4 +71,8 @@ img {
   background-color: rgb(60 60 60);
   color: silver;
   box-shadow: 0px 0px 4px 4px red;
+}
+body{
+  background-image: url(./images/futuristic-online-shopping-technology-digital-payment-from-mobile-phone-generative-ai_438099-23122.avif);
+  background-size: cover;
 }

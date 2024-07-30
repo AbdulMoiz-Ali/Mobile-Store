@@ -10,7 +10,7 @@ var mobileProducts = {
             rom: "64gb",
             batteryTime: "1,810mAh",
             display: "4.7 inches",
-            profilePicture: "./images/zsaSjr.jpg",//assests/Media/iphone6.jpeg
+            profilePicture: "./images/download.jpg",//assests/Media/iphone6.jpeg
             Prices: "43,999",
             Pta: true,
             avalaible: true,
@@ -24,7 +24,7 @@ var mobileProducts = {
             rom: "256gb",
             batteryTime: "1821mAh",
             display: "4.7 inches",
-            profilePicture: "./images/zsaSjr.jpg",//assests/Media/iphone8.jpeg
+            profilePicture: "./images/iphone-8-specs-1-600x600-1.png",//assests/Media/iphone8.jpeg
             Prices: "108,610",
             Pta: true,
             avalaible: true,
@@ -38,7 +38,7 @@ var mobileProducts = {
             rom: "256gb",
             batteryTime: "2716mAh",
             display: "5.8 inches",
-            profilePicture: "./images/zsaSjr.jpg",//assests/Media/iphneX.jpeg
+            profilePicture: "./images/images.jpg",//assests/Media/iphneX.jpeg
             Prices: "144,999",
             Pta: true,
             avalaible: true,
@@ -52,7 +52,7 @@ var mobileProducts = {
             rom: "256gb",
             batteryTime: "3110mAh",
             display: "5.8 inches",
-            profilePicture: "./images/zsaSjr.jpg",//assests/Media/iphone11.jpeg
+            profilePicture: "./images/images (1).jpg",//assests/Media/iphone11.jpeg
             Prices: "178,000",
             Pta: true,
             avalaible: true,
@@ -66,7 +66,7 @@ var mobileProducts = {
             rom: "256gb",
             batteryTime: "2815mAh",
             display: "6.1 inches",
-            profilePicture: "./images/zsaSjr.jpg",//assests/Media/iphone12.jpeg
+            profilePicture: "./images/images (2).jpg",//assests/Media/iphone12.jpeg
             Prices: "179,999",
             Pta: true,
             avalaible: true,
@@ -80,7 +80,7 @@ var mobileProducts = {
             rom: "256gb",
             batteryTime: "3279mAh",
             display: "6.1 inches",
-            profilePicture: "./images/zsaSjr.jpg",//assests/Media/Iphone14-img.jpeg
+            profilePicture: "./images/Apple-iPhone-14-Purple-4.jpg",//assests/Media/Iphone14-img.jpeg
             Prices: "179,999",
             Pta: true,
             avalaible: true,
@@ -96,7 +96,7 @@ var mobileProducts = {
             rom: "128gb",
             batteryTime: "4000mAh",
             display: "6.2 inches",
-            profilePicture: "./images/zsaSjr.jpg",//assests/Media/galaxy-S21.jpeg
+            profilePicture: "./images/155378-phones-review-hands-on-samsung-galaxy-s21-ultra-image1-luae09ici4.avif",//assests/Media/galaxy-S21.jpeg
             Prices: "176,499",
             Pta: true,
             avalaible: true,
@@ -110,7 +110,7 @@ var mobileProducts = {
             rom: "256gb",
             batteryTime: "5000mAh",
             display: "6.6 inches",
-            profilePicture: "./images/zsaSjr.jpg",//assests/Media/galaxy_A35.jpeg
+            profilePicture: "./images/Samsung-Galaxy-A35-5G-Awesom-lemon-2.png",//assests/Media/galaxy_A35.jpeg
             Prices: "114,999",
             Pta: true,
             avalaible: true,
@@ -124,7 +124,7 @@ var mobileProducts = {
             rom: "128gb",
             batteryTime: "5000mAh",
             display: "6.7 inches",
-            profilePicture: "./images/zsaSjr.jpg",//assests/Media/galaxy-A05.jpeg
+            profilePicture: "./images/images (3).jpg",//assests/Media/galaxy-A05.jpeg
             Prices: "36,499",
             Pta: true,
             avalaible: true,
@@ -140,7 +140,7 @@ var mobileProducts = {
             rom: "256gb",
             batteryTime: "5000mAh",
             display: "6.78 inches",
-            profilePicture: "./images/zsaSjr.jpg",
+            profilePicture: "./images/lg_xqyIhvYfE02pPavNCcLb9BjiWwxvjHQwvjJeOoeX.jpg",
             Prices: "45,999",//assests/Media/hot_40.jpeg
             Pta: true,
             avalaible: true,
@@ -154,7 +154,7 @@ var mobileProducts = {
             rom: "256gb",
             batteryTime: "2815mAh",
             display: "6.78 inches",
-            profilePicture: "./images/zsaSjr.jpg",//assests/Media/note_40.jpeg
+            profilePicture: "./images/Infinix-Note-40-Price-in-Pakistan-fotor-2024060922958-201x251.png",//assests/Media/note_40.jpeg
             Prices: "54,999",
             Pta: true,
             avalaible: true,
@@ -168,7 +168,7 @@ var mobileProducts = {
             rom: "128gb",
             batteryTime: "5000mAh",
             display: "6.78 inches",
-            profilePicture: "./images/zsaSjr.jpg",//assests/Media/hot_30.jpg
+            profilePicture: "./images/1266698-1.jpg",//assests/Media/hot_30.jpg
             Prices: "34,999",
             Pta: true,
             avalaible: true,
@@ -185,7 +185,7 @@ var mobileProducts = {
             rom: "128gb",
             batteryTime: "6000mAh",
             display: "6.78 inches",
-            profilePicture: "./images/zsaSjr.jpg",//assests/Media/pova_06_pro.jpeg
+            profilePicture: "./images/images (5).jpg",//assests/Media/pova_06_pro.jpeg
             Prices: "24,799",
             Pta: true,
             avalaible: true,
@@ -199,7 +199,7 @@ var mobileProducts = {
             rom: "256gb",
             batteryTime: "5000mAh",
             display: "6.6 inches",
-            profilePicture: "./images/zsaSjr.jpg",//assests/Media/spark_20.jpeg
+            profilePicture: "./images/images (4).jpg",//assests/Media/spark_20.jpeg
             Prices: "31,799",
             Pta: true,
             avalaible: true,
@@ -213,7 +213,7 @@ var mobileProducts = {
             rom: "256gb",
             batteryTime: "5000mAh",
             display: "6.67 inches",
-            profilePicture: "./images/zsaSjr.jpg",//assests/Media/camon_20.jpeg
+            profilePicture: "./images/tecno-camon-20.webp",//assests/Media/camon_20.jpeg
             Prices: "41,499",
             Pta: true,
             avalaible: true,
@@ -229,7 +229,7 @@ function showingproduct() {
             var prductby = document.createElement('div');
             prductby.setAttribute("id", "product-content");
             let productCard = `<div class="mobile-cards">
-      <img src="./images/zsaSjr.jpg"/>
+      <img src="${mobileProducts[companiname][brandnmae].profilePicture}"/>
       <h1 style="margin: 5px; padding: 0%; text-decoration: underline">
        -: ${mobileProducts[companiname][brandnmae].Name} :-
       </h1>
@@ -275,7 +275,7 @@ function setPhoneValue() {
         var searchmobile = document.createElement('div');
         searchmobile.setAttribute("id", "search-mobile");
         let searchmobilecard = `<div class="mobile-cards">
-      <img src="./images/zsaSjr.jpg"/>
+      <img src="${mobileProducts[phoneSel][models].profilePicture}"/>
       <h1 style="margin: 5px; padding: 0%; text-decoration: underline">
        -: ${mobileProducts[phoneSel][models].Name} :-
       </h1>
@@ -304,7 +304,7 @@ mobilePhones.addEventListener("change", function () {
         let productContent = document.createElement("div");
         productContent.setAttribute("id", "product-content");
         productContent.innerHTML = `<div class="mobile-cards">
-      <img src="./images/zsaSjr.jpg"/>
+      <img src="${mobileProducts[phoneSelect.value][modelSearchValue].profilePicture}"/>
       <h1 style="margin: 5px; padding: 0%; text-decoration: underline">
        -: ${mobileProducts[phoneSelect.value][modelSearchValue].Name} :-
       </h1>
